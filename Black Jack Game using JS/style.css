@@ -1,0 +1,41 @@
+body {
+    background-image: url(Pics/back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 60px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#btn, #btnRes {
+    font-size: 20px;
+    margin-left: 20%;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: none;
+}
+
+h3 {
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#mainResult {
+    border: whitesmoke 4px solid;
+}
+
+#btnRes {
+    display: none;
+    margin-top: 25px;
+}
+
+img {
+    margin: 10px;
+}
